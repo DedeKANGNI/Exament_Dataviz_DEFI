@@ -13,4 +13,4 @@ Cette belle aventure a continué avec ces hauts et bas jusqu'en 2020 dernier où
 
 # Présentation du jeux de données
 
-<iframe src="https://data.culture.gouv.fr/explore/embed/dataset/frequentation-dans-les-salles-de-cinema/table/?disjunctive.annee&static=false&datasetcard=false" width="600" height="400" frameborder="0"></iframe>
+<iframe src="https://data.culture.gouv.fr/explore/embed/dataset/frequentation-dans-les-salles-de-cinema/table/?disjunctive.annee&static=false&datasetcard=false" width="800" height="400" frameborder="0"></iframe>
