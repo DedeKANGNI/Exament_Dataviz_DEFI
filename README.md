@@ -4,4 +4,7 @@ Dans le cadre de l'exament d'évalution de nos acquis du cours de datavisualisat
 # Introduction
 Selon wikipédia, "une salle de cinéma ou un cinéma est un lieu où est organisée la projection de films. Ce terme peut désigner aussi le regroupement dans un même endroit de plusieurs salles, qui projettent généralement des films différents à plusieurs horaires et dans ce cas le terme de « multiplexe » peut être également employé".
 Avant d'arriver à ces années glorieuses, les salles de cinémas ont eu du mal à décoler. La naissance des salles de cinema a été le fruit d'un long processus tout au lon du 19 ème siècle dans laquelle la technologie et la culture de masse ont joué un grand rôle. La première projection publique et payante à Paris a eu lieu au salon indien le 28 décembre 1895.
+
 ![This is an image](https://github.com/DedeKANGNI/Exament_Dataviz_DEFI/blob/main/cine.jpg)
+
+####Affiche de la première projection cinématographique à Paris/source:https://github.com/DedeKANGNI/Exament_Dataviz_DEFI/blob/main/cine.jpg
