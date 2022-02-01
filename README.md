@@ -18,5 +18,6 @@ Ce jeu de donnée est mis à disposition par le site du ministère de la culture
 
 Pour montrer cette évolution,nous avons choisi de faire un graphique ci-dessous.
 <iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiZW50cmVlc19taWxsaW9ucyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMwMDAwODAifV0sInhBeGlzIjoiYW5uZWUiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJmcmVxdWVudGF0aW9uLWRhbnMtbGVzLXNhbGxlcy1kZS1jaW5lbWFAY3VsdHVyZSIsIm9wdGlvbnMiOnt9fX1dLCJhbGlnbk1vbnRoIjp0cnVlLCJkaXNwbGF5TGVnZW5kIjp0cnVlfQ%3D%3D&static=false&datasetcard=false" width="900" height="300" frameborder="0"></iframe>
-####### graphique de l'évolution des entrées depuis 1980 à 2020.
-Comme on si attendait, on remarque grosse montée en 2019 avant d'avoir une chute vertigineuse en 2020.
+#### graphique de l'évolution des entrées depuis 1980 à 2020.
+Comme on si attendait, on remarque grosse montée en 2019 avant d'avoir une chute vertigineuse en 2020. Il est important de marquer aussi que après un bon décollage dans les années 80 il y a une baisse autour des années 90 et 95. Cette baisse peut être expliquée par l'avancée de la télévision dans les foyers et la programmation des émissions de divertissement.
+Cette tendance se confirme dans d'autres pays de l'europe comme l'espagne, l'allemagne selon nos recherches.
