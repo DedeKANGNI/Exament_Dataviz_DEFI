@@ -8,3 +8,5 @@ Avant d'arriver à ces années glorieuses, les salles de cinémas ont eu du mal 
 ![This is an image](https://github.com/DedeKANGNI/Exament_Dataviz_DEFI/blob/main/cine.jpg)
 
 #### Affiche de la première projection payante à cinématographique à Paris
+
+Cette belle aventure a continué avec ces hauts et bas jusqu'en 2020 dernier où tout à basculer. En effet avec la pandémie à coronavirus, les autorité ont du fermé les établissement recevant du public et les salles de cinéma ainsi d'autres lieux de cultures ont payé un lourd tribu. Même après la réouverture les salles ont eu du mal à reprendre du public.
