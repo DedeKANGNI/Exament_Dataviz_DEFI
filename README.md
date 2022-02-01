@@ -16,5 +16,7 @@ Cette belle aventure a continué avec ces hauts et bas jusqu'en 2020 dernier où
 <iframe src="https://data.culture.gouv.fr/explore/embed/dataset/frequentation-dans-les-salles-de-cinema/table/?disjunctive.annee&static=false&datasetcard=false" width="800" height="400" frameborder="0"></iframe>
 Ce jeu de donnée est mis à disposition par le site du ministère de la culture. Il présente les fréquentations dans les salles de cinéma depuis les années 1980 à 2020.On a également dans ce jeu de donnée la recette que les ces entrées ont générés pour chaque année. Il est important de noter que les données ont été mis à jour en novembre 2021.
 
-Pour montrer cette évolution,
+Pour montrer cette évolution,nous avons choisi de faire un graphique ci-dessous.
 <iframe src="https://data.opendatasoft.com/chart/embed/?dataChart=eyJ0aW1lc2NhbGUiOiIiLCJxdWVyaWVzIjpbeyJjaGFydHMiOlt7InR5cGUiOiJsaW5lIiwiZnVuYyI6IlNVTSIsInlBeGlzIjoiZW50cmVlc19taWxsaW9ucyIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiMwMDAwODAifV0sInhBeGlzIjoiYW5uZWUiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIiwiY29uZmlnIjp7ImRhdGFzZXQiOiJmcmVxdWVudGF0aW9uLWRhbnMtbGVzLXNhbGxlcy1kZS1jaW5lbWFAY3VsdHVyZSIsIm9wdGlvbnMiOnt9fX1dLCJhbGlnbk1vbnRoIjp0cnVlLCJkaXNwbGF5TGVnZW5kIjp0cnVlfQ%3D%3D&static=false&datasetcard=false" width="900" height="300" frameborder="0"></iframe>
+####### graphique de l'évolution des entrées depuis 1980 à 2020.
+Comme on si attendait, on remarque grosse montée en 2019 avant d'avoir une chute vertigineuse en 2020.
