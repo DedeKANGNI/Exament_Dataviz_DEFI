@@ -9,4 +9,8 @@ Avant d'arriver à ces années glorieuses, les salles de cinémas ont eu du mal 
 
 #### Affiche de la première projection payante à cinématographique à Paris
 
-Cette belle aventure a continué avec ces hauts et bas jusqu'en 2020 dernier où tout à basculer. En effet avec la pandémie à coronavirus, les autorité ont du fermé les établissement recevant du public et les salles de cinéma ainsi d'autres lieux de cultures ont payé un lourd tribu. Même après la réouverture les salles ont eu du mal à reprendre du public.
+Cette belle aventure a continué avec ces hauts et bas jusqu'en 2020 dernier où tout à basculer. En effet avec la pandémie à coronavirus, les autorité ont du fermé les établissement recevant du public et les salles de cinéma ainsi d'autres lieux de cultures ont payé un lourd tribu. Même après la réouverture les salles ont eu du mal à reprendre du public. Nous avons donc pris les données sur le site https://data.culture.gouv.fr/explore/dataset/frequentation-dans-les-salles-de-cinema/table/?disjunctive.annee, le site opendata du ministère de la culture.
+
+# Présentation du jeux de données
+
+<iframe src="https://data.culture.gouv.fr/explore/embed/dataset/frequentation-dans-les-salles-de-cinema/table/?disjunctive.annee&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
