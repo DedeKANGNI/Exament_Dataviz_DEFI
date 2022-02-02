@@ -34,5 +34,9 @@ Alors nous nous sommes demandés comment ils ont fait pour survivre à la fermet
 ## Visualisation des données des salles de cinéma.
 Nous habitons le departement des yvelines dans lequel nous avons en pleine pandémie. Et avec mon conjoint on adorait se faire plaisir en allant regarder un film au cinéma. Mais depuis le debut du covid étant une vraie trouillarde, je n'ais pas remis les pieds dans une salle de cinéma. De plus je ne connais pas où se trouve les salle de cinéma dans les yvelines. C'est donc une bonne occasion de visualiser les salles de cinnéma dans les yvelines et dans l'île de france pour les future sorties.
 Nous avons pu réaliser ce souhait grâce à un jeu de donner trouver sur opendatasoft: https://data.opendatasoft.com/explore/dataset/salle_de_cinema_ile-de-francedatailedefrance%40cinema-public/table/
+
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/salle_de_cinema_ile-de-francedatailedefrance@cinema-public/table/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/les_salles_de_cinema_en_ile_de_france/?&static=true&scrollWheelZoom=true"></iframe>
+Comme on pouvait le deviner la petite courronne de Paris est encore en tête en concentration de salles de cinéma.
+# Conclusion
+Cette expérience et cette question de connaître l'effet de la pandémie sur les salles de cinéma ont révélés que toutes les questions n'ont pas encore de réponse. Qand bien même opendata continue de faire son chemin il reste encore du travail à faire pour pouvoir répondre à des questions que peuvent se poser des citoyzns dans leur coin.
