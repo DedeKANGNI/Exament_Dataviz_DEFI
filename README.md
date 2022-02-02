@@ -38,5 +38,5 @@ Nous avons pu réaliser ce souhait grâce à un jeu de donner trouver sur openda
 <iframe src="https://data.opendatasoft.com/explore/embed/dataset/salle_de_cinema_ile-de-francedatailedefrance@cinema-public/table/?&static=false&datasetcard=false" width="400" height="300" frameborder="0"></iframe>
 <iframe frameborder="0" width="800" height="600" src="https://data.opendatasoft.com/map/embed/les_salles_de_cinema_en_ile_de_france/?&static=true&scrollWheelZoom=true"></iframe>
 Comme on pouvait le deviner la petite courronne de Paris est encore en tête en concentration de salles de cinéma.
-# Conclusion
+# Conclusion.
 Cette expérience et cette question de connaître l'effet de la pandémie sur les salles de cinéma ont révélés que toutes les questions n'ont pas encore de réponse. Qand bien même opendata continue de faire son chemin il reste encore du travail à faire pour pouvoir répondre à des questions que peuvent se poser des citoyzns dans leur coin.
